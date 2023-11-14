@@ -1,0 +1,15 @@
+In terminal/cloud shell:
+  - gcloud app deploy
+    * select server
+    
+In cloud build:
+  - triggers
+    * select trigger event: push
+    * select repo
+    * select branch (can be staging, dev, etc.)
+  - settings
+    * enable app engine admin
+    * enable service accounts
+    
+  
+    
