@@ -1,3 +1,7 @@
+Create new project
+Clone repo
+create venv
+
 In terminal/cloud shell:
   - gcloud app deploy
     * select server
